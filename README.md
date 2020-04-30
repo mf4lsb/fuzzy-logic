@@ -1,4 +1,4 @@
-Tugas Besar FUZZY dari mata kuliah kecerdasan buatan
+<h1>Tugas Besar FUZZY dari mata kuliah kecerdasan buatan</h1>
 
 variabel input
 cpu, core, ram
